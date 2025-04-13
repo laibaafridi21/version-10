@@ -1,0 +1,78 @@
+body{
+    width: auto;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+
+#box {
+text-align: center;
+background-color: aliceblue;
+width: 800px;
+margin: auto;
+ 
+
+}
+
+#box2{
+    background-color: aliceblue;
+    text-align: center;
+    
+    width: 800px;
+    margin: auto;
+}
+#headingOne{
+    text-align: center;
+}
+#para{
+    text-align: center;
+    font-size: medium;
+}
+#parag{
+    text-align: justify;
+    font-size: medium;
+}
+p{
+    font-size: medium;
+}
+button{
+    color: rgb(4, 18, 30);
+    font-size: medium;
+    text-decoration: solid;
+}
+#div a{
+    height: 600px;
+
+}
+#paragr{
+    font-size: larger;
+    text-align: justify;
+    text-transform: calc();
+    text-decoration: none;
+}
+#headingTwo{
+    font-size: large;
+    font-size: larger;
+    text-align: justify;
+    font-weight: bold;
+    font-style: normal;
+
+}
+#paraTwo{
+    font-weight: 900;
+    text-align: justify;
+font-style: normal;
+font-size: large;
+}
+#paraThree{
+    font-style: normal;
+    text-align: justify;
+    font-size: larger;
+    
+}
+
+
+
+
+
